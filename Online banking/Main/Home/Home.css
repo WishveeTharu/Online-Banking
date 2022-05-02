@@ -1,0 +1,64 @@
+#navigation{
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	top: 40px;
+	left: 0;
+	background: #26271A;
+}
+
+#list{
+	display: flex;
+    width: 300px;
+    float: left;
+}
+
+#text{
+	position: relavite;
+    color: #F8ECD1;
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 1px;
+    opacity: 1;
+    
+}
+
+a{
+	color:inherit;
+}
+
+#logo{
+	height: auto;
+	width: 180px;
+	margin-left: 20px;
+    margin-top: 0.125em;
+	border-radius: 75%;
+	float: left;
+}
+
+body{
+	background-image: url(Images/background-image.jpg);
+	background-size: cover;
+	height: 100vh;
+	background-position: center;
+}
+
+#center{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	font-family: fantasy;
+	transform: translate(-50%, -50%);
+}
+
+h1{
+	margin-top: 70px;
+	color: #C8E7ED;
+	font-size: 90px;
+	font-family: Geogia;
+	text-align: center;
+	text-shadow: 2px 2px black;
+	font-weight: bold;
+	width: 800px;
+}
+

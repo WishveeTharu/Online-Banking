@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html lang ="eng">
+
+<html>
+<head>
+   <meta charset ="UTF-8">
+   <meta name ="description" content ="Onling Banking System">
+   <meta name ="keywords" content="HTML,CSS">
+   <meta name ="author" content="Wishvee Tharu">
+   <meta name ="viewpoint" content="width = device-width,initial-scale=1.0">
+   <link href="Home.css" rel="stylesheet">
+   <title>HOME</title>
+</head>
+
+<body>
+<div id="main">
+ <div id="navigation">
+   <img id="logo" src="Images/logo1.png" alt="Logo">
+   <ul id="list">
+     <li>
+	   <a href="Homepage.html">
+	   <span id="text">Home&nbsp&nbsp&nbsp</span>
+	   </a>
+	 </li>
+	 <li>
+	   <a href="Loginpage.html">
+	   <span id="text">Login&nbsp&nbsp&nbsp</span>
+	   </a>
+	 </li>
+	 <li>
+	   <a href="Contactpage.html">
+	   <span id="text">Contact&nbsp&nbsp&nbsp</span>
+	   </a>
+	 </li>
+	 <li>
+	   <a href="Aboutuspage.html">
+	   <span id="text">About&nbsp&nbsp&nbsp</span>
+	   </a>
+	 </li>
+   </ul>
+ </div>
+ <div id="center">
+   <h1>Welcome To Online Banking</h1>
+ </div>
+</div>
+
+   <script></script>
+</body>
+</html>

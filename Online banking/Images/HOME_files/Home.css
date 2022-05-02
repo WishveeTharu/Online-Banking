@@ -1,0 +1,59 @@
+#navigation{
+	position: fixed;
+	height: 50px;
+	width: 100%;
+	top: 40px;
+	left: 0;
+	background: #26271A;
+}
+
+#list{
+	display: flex;
+    width: 200px;
+    float: right;
+}
+
+#text{
+	position: relative;
+    color: 2A2550;
+    font-weight: 300;
+    font-size: 25px;
+    letter-spacing: 0.05em;
+    transition: 0.5s;
+    opacity: 1;
+
+}
+
+#logo{
+	height: auto;
+	width: 160px;
+	margin-left: 20px;
+    margin-top: 55px;
+	border-radius: 50%;
+}
+
+body{
+	background-image: url(Images/background-image.jpg);
+	background-size: cover;
+	height: 100vh;
+	background-position: center;
+}
+
+#center{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	font-family: fantasy;
+	 transform: translate(-50%, -50%);
+}
+
+h1{
+	margin-top: 70px;
+	color: #C8E7ED;
+	font-size: 70px;
+	font-family: Geogia;
+	text-align: center;
+	font-weight: bold;
+	width: 800px;
+}
+
